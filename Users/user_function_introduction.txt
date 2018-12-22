@@ -1,0 +1,15 @@
+function [ users_Jth_T2,users_Jth_SPE,users_nx,users_T2,users_SPE ] = Users_function( X,Y,x,y )
+%USERS_FUNCTION 此处显示有关此函数的摘要
+%   此处显示详细说明
+%输入变量说明：
+%            X，Y为训练数据
+%            x，y为故障数据
+%输出变量说明：
+%            users_Jth_T2为T^2统计量的控制限
+%            users_Jth_SPE为SPE统计量的控制限
+%            users_nx为采样个数
+%            users_T2为T^2统计量
+%            users_SPE为SPE统计量
+%            
+
+请遵照以上格式编写您的算法代码！
